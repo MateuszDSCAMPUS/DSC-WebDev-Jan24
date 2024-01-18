@@ -1,0 +1,60 @@
+body {
+     background-color: wheat;
+}
+
+form {
+     margin: 10%;
+     background-color: aqua;
+     border-radius: 15px;
+     border-style: solid;
+     border-width: 5px;
+     padding: 2%;
+}
+
+.divstuff {
+     margin: 2%;
+     padding: 1%;
+     background-color: wheat;
+     border-radius: 5px;
+     border-style: dotted;
+     border-width: 2px;
+}
+
+#henlo {
+     color: red;
+     
+}
+
+#box{
+     height: 50px;
+     width: 50px;
+}
+
+.red{
+     background-color: red;
+}
+
+.blue{
+     background-color: blue;
+}
+
+input{
+     padding: 1%;
+     border-radius: 5px;
+     background-color: bisque;
+}
+select{
+     padding: 1%;
+     border-radius: 5px;
+     background-color: bisque;
+}
+
+button{
+     padding: 1%;
+     border-radius: 5px;
+     background-color: bisque;
+}
+
+label{
+     font-family: fantasy;
+}
